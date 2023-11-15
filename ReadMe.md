@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Nicolas, tenho 21 anos e sou estudante de Gestão em TI e também no Floripa Mais Tech.<br>No FMT já iniciei minha introdução ao JavaScript, HTML5 e CSS.<br>
+Me chamo Nicolas, tenho 21 anos e sou estudante de Gestão em TI e também estudante no Floripa Mais Tech.<br>No FMT já iniciei minha introdução ao JavaScript, HTML5 e CSS.<br>
 
 
 ## 🌐 Socials:
